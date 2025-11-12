@@ -40,7 +40,6 @@ This project is guided by the following core principles and expected deliverable
 
 The following directory structure is used to organize the documentation, source code, and assets for this project.
 ```markdown
-```text
 .
 ├── docs/                 # All project documentation and design artifacts
 │   ├── current-infrastructure.md  # Detailed breakdown of the 'before' state
@@ -53,7 +52,6 @@ The following directory structure is used to organize the documentation, source 
 │   └── terraform/        # Terraform configurations for infrastructure provisioning
 ├── LICENSE               # Apache 2.0 License file
 └── README.md             # This file
-```
 ```
 
 ---
