@@ -55,13 +55,13 @@ All application services are hosted directly within the TrueNAS Scale applicatio
 ### Core Services Inventory
 
 | Service Name | Application/Container Name | Purpose | Local IP Address | Current Access URL |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | **Media Server** | **Jellyfin** | Video streaming and media management. | `http://192.168.1.5:30013`  | `https://watch.sirhexx.com` |
-| **DNS/Ad-Blocking** | [Specify Application] | E.g., Pi-hole or AdGuard Home. | `dns.sirhexx.com` |
-| **Download Management** | [Specify Application] | E.g., qBittorrent, Transmission. | |
-| **Monitoring** | [Specify Application] | E.g., Prometheus/Grafana stack. | |
-| **VPN Access** | [Specify Application] | E.g., WireGuard or OpenVPN. | |
-| **[Add Other Services]** | | | |
+| **DNS/Ad-Blocking** | [Specify Application] | E.g., Pi-hole or AdGuard Home. | | `dns.sirhexx.com` |
+| **Download Management** | [Specify Application] | E.g., qBittorrent, Transmission. | | |
+| **Monitoring** | [Specify Application] | E.g., Prometheus/Grafana stack. | | |
+| **VPN Access** | [Specify Application] | E.g., WireGuard or OpenVPN. | | |
+| **[Add Other Services]** | | | | |
 
 ### Configuration Management Status
 
